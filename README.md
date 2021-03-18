@@ -1,2 +1,2 @@
-# curso-em-video-htmlcss
-Destinado aos códigos das aulas e desafios do Curso em Vídeo de HTML5 e CSS3.
+# Sobre
+Destinado aos códigos das aulas e desafios do Curso em Vídeo de HTML5 e CSS3, curso disponibilizado pelo canal Curso em Vídeo, realizado pelo Gustavo Guanabara, por desejar voltar a codar no front-end, acabei que decidi comecar pelo basico novamente para pegar o jeito, por mais que eu já saiba boa parte do conteudo do curso, é sempre bom renovar, alias, eu passei anos longe. O foco vai ser futuramente aliar com o curso de javascript e realizar o back-end em flask ou django, ainda estou a escolher, irao saber num futuro proximo.
